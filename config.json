@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepync",
+        "uuid": 14212197,
+        "checksum": "o4tleq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
